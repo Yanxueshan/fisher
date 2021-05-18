@@ -22,7 +22,7 @@ MAIL_PORT = 465
 MAIL_USE_SSL = True
 MAIL_USE_TSL = False
 MAIL_USERNAME = '327218155@qq.com'
-MAIL_PASSWORD = 'znimkxpskyqhbhaj'
+MAIL_PASSWORD = 'root'
 
 # 缓存配置Cache
 CACHE_TYPE = 'redis'
